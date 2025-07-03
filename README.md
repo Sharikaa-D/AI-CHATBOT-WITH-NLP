@@ -80,6 +80,7 @@ Intern at **CODTECH** COMPANY FOR 4 WEEKS
 - Built entirely in Google Colab
 - Outdoors API or database used
 - Simply the logic of Python and some basic NLP
+
 OUTPUT OF THE PROJECT:
 ![Image](https://github.com/user-attachments/assets/51320151-1622-40ac-9933-6473304284c6)
 
