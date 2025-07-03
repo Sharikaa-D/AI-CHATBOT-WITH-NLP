@@ -70,12 +70,7 @@ A simple AI chatbot coded using **Python** and **NLTK (Natural Language Toolkit)
 - `what can you do`
 - `who created you`
 - `bye`
-
----
-
-✨ Output Screenshot
-
-> _(Attach a screenshot here for submission that shows your chatbot responding in Colab if it is asked for)
+- --------
 > 👩‍💻 Developed By
 **Sharikaa D**  
 Intern at **CODTECH** COMPANY FOR 4 WEEKS
@@ -86,6 +81,7 @@ Intern at **CODTECH** COMPANY FOR 4 WEEKS
 - Outdoors API or database used
 - Simply the logic of Python and some basic NLP
 OUTPUT OF THE PROJECT:
+![Image](https://github.com/user-attachments/assets/51320151-1622-40ac-9933-6473304284c6)
 
 
 
